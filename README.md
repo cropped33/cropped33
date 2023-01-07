@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sulav Bhandari</h1>
-<h3 align="center">I'm student of Computer Engineering at IOE, Purwanchal Campus(ERC), Dharan, Nepal</h3>
-<h3 align="center">I’m currently trying to learn Machine learninig</h3>
-<img align="right" alt="Coding" width="400"
-    src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+<h4 align="center">I'm student of Computer Engineering at IOE, Purwanchal Campus(ERC), Dharan, Nepal</h3>
+<h4 align="center">I’m currently trying to learn Machine learninig</h3>
+
 
 
 <h3 align="left">Connect with me:</h3>
@@ -54,8 +53,4 @@
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=cropped33&" alt="cropped33" class="bgb"></p>
 
 
-<style>
-    .bgb {
-        background-color:transparent !important;
-    }
-</style>
+
