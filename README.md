@@ -45,9 +45,9 @@
 
 <p align="center",margin=50px>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cropped33&show_icons=true&locale=en&layout=compact&theme=radical"
-        alt="cropped33", height=180 ,width=200,class="bgb" />
+        alt="cropped33", height=180 ,width=150,class="bgb" />
     <img src="https://github-readme-stats.vercel.app/api?username=cropped33&show_icons=true&locale=en&theme=radical"
-        alt="cropped33", height=180 ,width=200,class="bgb" />
+        alt="cropped33", height=180 ,width=150,class="bgb" />
 </p>
 
 
