@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Sulav Bhandari</h1>
-<h4 align="center">I'm student of Computer Engineering at IOE, Purwanchal Campus(ERC), Dharan, Nepal</h4>
-<h4 align="center">I’m currently trying to learn Machine learninig</h4>
+<h1 align="left">Hi 👋, I'm Sulav Bhandari</h1>
+<h4 align="left">I'm student of Computer Engineering at IOE, Purwanchal Campus(ERC), Dharan, Nepal</h4>
+<h4 align="left">I’m currently trying to learn Machine learninig</h4>
 
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href=" https://www.codechef.com/users/cropped" target="blank"><img align="left"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="cropped" height="30"
+    <a href="https://www.codechef.com/users/cropped" target="_blank"><img align="left"
+            src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" alt="cropped" height="30"
             width="40" /></a>
-    <a href="https://codeforces.com/profile/cropped" target="blank"><img align="center"
+    <a href="https://codeforces.com/profile/cropped" target="_blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"
             alt="cropped" height="30" width="40" /></a>
 </p>
@@ -43,11 +43,11 @@
             height="40" /> </a> </p>
 
 
-<p align="center">
+<p align="center",margin=50px>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cropped33&show_icons=true&locale=en&layout=compact&theme=radical"
-        alt="cropped33" width="300" height="200" class="bgb" />
+        alt="cropped33", height=180 ,width=200,class="bgb" />
     <img src="https://github-readme-stats.vercel.app/api?username=cropped33&show_icons=true&locale=en&theme=radical"
-        alt="cropped33"  width="300" height="200" class="bgb" />
+        alt="cropped33", height=180 ,width=200,class="bgb" />
 </p>
 
 
