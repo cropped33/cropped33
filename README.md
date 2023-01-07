@@ -43,11 +43,11 @@
             height="40" /> </a> </p>
 
 
-<p align="center",margin=50px>
+<p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cropped33&show_icons=true&locale=en&layout=compact&theme=radical"
-        alt="cropped33", height=180 ,width=150,class="bgb" />
+        alt="cropped33", height=192, class="bgb" />
     <img src="https://github-readme-stats.vercel.app/api?username=cropped33&show_icons=true&locale=en&theme=radical"
-        alt="cropped33", height=180 ,width=150,class="bgb" />
+        alt="cropped33",height=190, class="bgb" />
 </p>
 
 
