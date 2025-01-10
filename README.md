@@ -1,6 +1,5 @@
 <h1 align="left">Hi 👋, I'm Sulav Bhandari</h1>
 <h4 align="left">I'm student of Computer Engineering at IOE, Purwanchal Campus(ERC), Dharan, Nepal</h4>
-<h4 align="left">I’m currently trying to learn Data Science and Machine learning</h4>
 <img align="right" alt="Coding" width="200" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
 
